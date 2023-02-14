@@ -13,6 +13,7 @@
 
 ### Run instructions for Android:
 • Have an Android emulator running (quickest way to get started), or a device connected.
+
 • cd "/Users/hyh/Examples/RN/AwesomeTSProject" && npx react-native run-android
 
 ### Run instructions for iOS:
@@ -21,6 +22,7 @@
 - or -
 
 • Open AwesomeTSProject/ios/AwesomeTSProject.xcworkspace in Xcode or run "xed -b ios"
+
 • Hit the Run button
 
 ### Run instructions for macOS:
