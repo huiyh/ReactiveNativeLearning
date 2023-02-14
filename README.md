@@ -3,10 +3,13 @@
 * React Native 中文网 [https://www.reactnative.cn](https://www.reactnative.cn/)
   * [搭建开发环境](https://www.reactnative.cn/docs/environment-setup)
   
+# 基本流程
 
-# 环境搭建
+## 环境搭建
 
-## 运用
+[学习笔记 —— React Native环境搭建](https://docs.qq.com/doc/DSnpnUU5ZY0tHello?&u=84ec9a0eccc94de1b9cf7e25efd7e45c)
+
+## 运行
 
 ### Run instructions for Android:
 • Have an Android emulator running (quickest way to get started), or a device connected.
@@ -22,4 +25,6 @@
 
 ### Run instructions for macOS:
 • See https://aka.ms/ReactNativeGuideMacOS for the latest up-to-date instructions.
+
+# 技术细节
 
