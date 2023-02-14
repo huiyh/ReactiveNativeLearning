@@ -38,6 +38,8 @@ node_modules/
 npm-debug.log
 yarn-error.log
 
+.bundle
+
 # BUCK
 buck-out/
 \.buckd/
